@@ -1,0 +1,15 @@
+pip
+setuptools
+
+jupyter
+
+pandas
+numexpr
+bottleneck
+statsmodels
+blosc
+
+gensim
+pyldavis
+scipy
+scikit-learn
